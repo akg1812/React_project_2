@@ -1,0 +1,14 @@
+#name-container {
+    display: inline-flex;
+}
+
+#name-container ul{
+    list-style-type: none;
+    min-width: 350px;
+}
+
+#name-container ul li {
+    padding: 2px;
+    text-align: center;
+    border: 1px solid rgba(119, 119, 119, 0.4);
+}
